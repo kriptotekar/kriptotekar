@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kriptotekar
+- 👋 Hi, my name is Aldo
 - 👀 I’m interested in ... Crypto development
 - 🌱 I’m currently learning ... Move
-- 💞️ I’m looking to collaborate on ... Nothing for now
+- 💞️ I’m looking to collaborate on ... crypto dapp
 - 📫 How to reach me ... via Telegram @cryptotekar
 - 😄 Pronouns: ... I'm a man
 - ⚡ Fun fact: ... Trump is president
