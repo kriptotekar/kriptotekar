@@ -1,6 +1,6 @@
-- 👋 Hi, my name is Aldo
-- 👀 I’m interested in ... Crypto development
-- 🌱 I’m currently learning ... Move
+- 👋 Hi, my name is Aldo Urem
+- 👀 I’m interested in ... Crypto development, GOlang & Move lang
+- 🌱 I’m currently learning ... Fullstack WebDevOps at University of Helsinki
 - 💞️ I’m looking to collaborate on ... crypto dapp
 - 📫 How to reach me ... via Telegram @cryptotekar
 - 😄 Pronouns: ... I'm a man
